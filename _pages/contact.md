@@ -9,11 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Contacts
-======
-Email:
-* jamesg04@vt.edu
-Github:
-* github.com/WildBirdDog27
-University Affiliation:
-* Virginia Tech in the college of Engineering
+* Email: jamesg04@vt.edu
+
+* Github: github.com/WildBirdDog27
+
+* University Affiliation: Virginia Tech in the college of Engineering
